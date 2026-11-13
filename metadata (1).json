@@ -1,0 +1,8 @@
+{
+  "name": "ODISHA RIDE",
+  "description": "Professional ride booking application for Bhubaneswar and Cuttack with Customer App, Driver App, Super Admin Panel, and 50% customer subsidy.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
